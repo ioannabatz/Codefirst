@@ -1,0 +1,38 @@
+h1{
+	color: rgba(23,21,150,0.7);
+	text-align: center;
+	font-family:Courier;
+	font-size:100px;
+	background-color: rgba(19,2,130,0.1)
+	
+}
+
+p{	font-family: Courier;
+    text-align: center;
+	font-size: 26px;
+	color: white;
+	text-align: border-top-width;
+	position: absolute;
+	bottom: 200px;
+	right: 50px;
+			
+}
+
+h2{	font-family: Courier;
+    text-align: center;
+	font-size: 16px;
+	color: white;
+	position: absolute;
+	bottom: 20px;
+	right: 50px;
+}
+
+
+html{
+	background: url(new.gif);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+     background-size: cover
+	  
+}
+
